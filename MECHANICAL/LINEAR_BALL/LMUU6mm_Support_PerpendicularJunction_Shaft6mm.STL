@@ -1247,6 +1247,34 @@ solid LMUU6mm_Support_PerpendicularJunction_Shaft6mm
    endfacet
    facet normal 0.000000e+000 0.000000e+000 1.000000e+000
       outer loop
+         vertex 1.602506e+001 1.515562e+001 1.900000e+001
+         vertex 1.827606e+001 1.300166e+001 1.900000e+001
+         vertex 1.914590e+001 1.336196e+001 1.900000e+001
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
+      outer loop
+         vertex 1.270533e+001 4.175322e+000 1.900000e+001
+         vertex 1.565396e+001 4.931678e+000 1.900000e+001
+         vertex 1.262602e+001 4.393228e+000 1.900000e+001
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
+      outer loop
+         vertex 1.262602e+001 4.393228e+000 1.900000e+001
+         vertex 1.565396e+001 4.931678e+000 1.900000e+001
+         vertex 1.529366e+001 5.801519e+000 1.900000e+001
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
+      outer loop
+         vertex 1.262602e+001 4.393228e+000 1.900000e+001
+         vertex 1.529366e+001 5.801519e+000 1.900000e+001
+         vertex 1.254531e+001 4.614982e+000 1.900000e+001
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
+      outer loop
          vertex 1.209115e+001 6.482751e+000 1.900000e+001
          vertex 1.212336e+001 6.207189e+000 1.900000e+001
          vertex 1.507387e+001 6.717014e+000 1.900000e+001
@@ -1289,90 +1317,6 @@ solid LMUU6mm_Support_PerpendicularJunction_Shaft6mm
    endfacet
    facet normal 0.000000e+000 0.000000e+000 1.000000e+000
       outer loop
-         vertex 1.318986e+001 1.212795e+001 1.900000e+001
-         vertex 1.565396e+001 1.037956e+001 1.900000e+001
-         vertex 1.376139e+001 1.300376e+001 1.900000e+001
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
-      outer loop
-         vertex 1.376139e+001 1.300376e+001 1.900000e+001
-         vertex 1.565396e+001 1.037956e+001 1.900000e+001
-         vertex 1.614590e+001 1.118233e+001 1.900000e+001
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
-      outer loop
-         vertex 1.376139e+001 1.300376e+001 1.900000e+001
-         vertex 1.614590e+001 1.118233e+001 1.900000e+001
-         vertex 1.443066e+001 1.380735e+001 1.900000e+001
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
-      outer loop
-         vertex 1.443066e+001 1.380735e+001 1.900000e+001
-         vertex 1.614590e+001 1.118233e+001 1.900000e+001
-         vertex 1.675736e+001 1.189826e+001 1.900000e+001
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
-      outer loop
-         vertex 1.443066e+001 1.380735e+001 1.900000e+001
-         vertex 1.675736e+001 1.189826e+001 1.900000e+001
-         vertex 1.518863e+001 1.452788e+001 1.900000e+001
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
-      outer loop
-         vertex 1.518863e+001 1.452788e+001 1.900000e+001
-         vertex 1.675736e+001 1.189826e+001 1.900000e+001
-         vertex 1.747329e+001 1.250972e+001 1.900000e+001
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
-      outer loop
-         vertex 1.518863e+001 1.452788e+001 1.900000e+001
-         vertex 1.747329e+001 1.250972e+001 1.900000e+001
-         vertex 1.602506e+001 1.515562e+001 1.900000e+001
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
-      outer loop
-         vertex 1.602506e+001 1.515562e+001 1.900000e+001
-         vertex 1.747329e+001 1.250972e+001 1.900000e+001
-         vertex 1.827606e+001 1.300166e+001 1.900000e+001
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
-      outer loop
-         vertex 1.602506e+001 1.515562e+001 1.900000e+001
-         vertex 1.827606e+001 1.300166e+001 1.900000e+001
-         vertex 1.914590e+001 1.336196e+001 1.900000e+001
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
-      outer loop
-         vertex 1.270533e+001 4.175322e+000 1.900000e+001
-         vertex 1.565396e+001 4.931678e+000 1.900000e+001
-         vertex 1.262602e+001 4.393228e+000 1.900000e+001
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
-      outer loop
-         vertex 1.262602e+001 4.393228e+000 1.900000e+001
-         vertex 1.565396e+001 4.931678e+000 1.900000e+001
-         vertex 1.529366e+001 5.801519e+000 1.900000e+001
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
-      outer loop
-         vertex 1.262602e+001 4.393228e+000 1.900000e+001
-         vertex 1.529366e+001 5.801519e+000 1.900000e+001
-         vertex 1.254531e+001 4.614982e+000 1.900000e+001
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
-      outer loop
          vertex 1.204459e+001 8.430135e+000 1.900000e+001
          vertex 1.201523e+001 8.178940e+000 1.900000e+001
          vertex 1.507387e+001 8.594228e+000 1.900000e+001
@@ -1411,6 +1355,90 @@ solid LMUU6mm_Support_PerpendicularJunction_Shaft6mm
          vertex 1.507387e+001 8.594228e+000 1.900000e+001
          vertex 1.211026e+001 8.991970e+000 1.900000e+001
          vertex 1.207761e+001 8.712648e+000 1.900000e+001
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
+      outer loop
+         vertex 1.827606e+001 1.300166e+001 1.900000e+001
+         vertex 1.602506e+001 1.515562e+001 1.900000e+001
+         vertex 1.747329e+001 1.250972e+001 1.900000e+001
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
+      outer loop
+         vertex 1.747329e+001 1.250972e+001 1.900000e+001
+         vertex 1.602506e+001 1.515562e+001 1.900000e+001
+         vertex 1.518863e+001 1.452788e+001 1.900000e+001
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
+      outer loop
+         vertex 1.747329e+001 1.250972e+001 1.900000e+001
+         vertex 1.518863e+001 1.452788e+001 1.900000e+001
+         vertex 1.675736e+001 1.189826e+001 1.900000e+001
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
+      outer loop
+         vertex 1.675736e+001 1.189826e+001 1.900000e+001
+         vertex 1.518863e+001 1.452788e+001 1.900000e+001
+         vertex 1.443066e+001 1.380735e+001 1.900000e+001
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
+      outer loop
+         vertex 1.675736e+001 1.189826e+001 1.900000e+001
+         vertex 1.443066e+001 1.380735e+001 1.900000e+001
+         vertex 1.614590e+001 1.118233e+001 1.900000e+001
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
+      outer loop
+         vertex 1.614590e+001 1.118233e+001 1.900000e+001
+         vertex 1.443066e+001 1.380735e+001 1.900000e+001
+         vertex 1.376139e+001 1.300376e+001 1.900000e+001
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
+      outer loop
+         vertex 1.614590e+001 1.118233e+001 1.900000e+001
+         vertex 1.376139e+001 1.300376e+001 1.900000e+001
+         vertex 1.565396e+001 1.037956e+001 1.900000e+001
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
+      outer loop
+         vertex 1.565396e+001 1.037956e+001 1.900000e+001
+         vertex 1.376139e+001 1.300376e+001 1.900000e+001
+         vertex 1.318986e+001 1.212795e+001 1.900000e+001
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
+      outer loop
+         vertex 1.565396e+001 1.037956e+001 1.900000e+001
+         vertex 1.318986e+001 1.212795e+001 1.900000e+001
+         vertex 1.273610e+001 1.122044e+001 1.900000e+001
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
+      outer loop
+         vertex 1.273610e+001 1.122044e+001 1.900000e+001
+         vertex 1.265598e+001 1.100032e+001 1.900000e+001
+         vertex 1.565396e+001 1.037956e+001 1.900000e+001
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
+      outer loop
+         vertex 1.565396e+001 1.037956e+001 1.900000e+001
+         vertex 1.265598e+001 1.100032e+001 1.900000e+001
+         vertex 1.257464e+001 1.077684e+001 1.900000e+001
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
+      outer loop
+         vertex 1.565396e+001 1.037956e+001 1.900000e+001
+         vertex 1.257464e+001 1.077684e+001 1.900000e+001
+         vertex 1.529366e+001 9.509723e+000 1.900000e+001
       endloop
    endfacet
    facet normal 0.000000e+000 0.000000e+000 1.000000e+000
@@ -1537,34 +1565,6 @@ solid LMUU6mm_Support_PerpendicularJunction_Shaft6mm
          vertex 1.507387e+001 6.717014e+000 1.900000e+001
          vertex 1.205857e+001 6.761512e+000 1.900000e+001
          vertex 1.209115e+001 6.482751e+000 1.900000e+001
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
-      outer loop
-         vertex 1.257464e+001 1.077684e+001 1.900000e+001
-         vertex 1.529366e+001 9.509723e+000 1.900000e+001
-         vertex 1.265598e+001 1.100032e+001 1.900000e+001
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
-      outer loop
-         vertex 1.265598e+001 1.100032e+001 1.900000e+001
-         vertex 1.529366e+001 9.509723e+000 1.900000e+001
-         vertex 1.565396e+001 1.037956e+001 1.900000e+001
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
-      outer loop
-         vertex 1.265598e+001 1.100032e+001 1.900000e+001
-         vertex 1.565396e+001 1.037956e+001 1.900000e+001
-         vertex 1.273610e+001 1.122044e+001 1.900000e+001
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
-      outer loop
-         vertex 1.273610e+001 1.122044e+001 1.900000e+001
-         vertex 1.565396e+001 1.037956e+001 1.900000e+001
-         vertex 1.318986e+001 1.212795e+001 1.900000e+001
       endloop
    endfacet
    facet normal 0.000000e+000 0.000000e+000 1.000000e+000
@@ -1730,6 +1730,34 @@ solid LMUU6mm_Support_PerpendicularJunction_Shaft6mm
    endfacet
    facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
       outer loop
+         vertex 1.675736e+001 1.189826e+001 0.000000e+000
+         vertex 1.614590e+001 1.118233e+001 0.000000e+000
+         vertex 1.376139e+001 1.300376e+001 0.000000e+000
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
+      outer loop
+         vertex 1.376139e+001 1.300376e+001 0.000000e+000
+         vertex 1.614590e+001 1.118233e+001 0.000000e+000
+         vertex 1.318986e+001 1.212795e+001 0.000000e+000
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
+      outer loop
+         vertex 1.318986e+001 1.212795e+001 0.000000e+000
+         vertex 1.614590e+001 1.118233e+001 0.000000e+000
+         vertex 1.565396e+001 1.037956e+001 0.000000e+000
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
+      outer loop
+         vertex 1.318986e+001 1.212795e+001 0.000000e+000
+         vertex 1.565396e+001 1.037956e+001 0.000000e+000
+         vertex 1.273610e+001 1.122044e+001 0.000000e+000
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
+      outer loop
          vertex 1.507387e+001 6.717014e+000 0.000000e+000
          vertex 1.201523e+001 7.404099e+000 0.000000e+000
          vertex 1.500000e+001 7.655621e+000 0.000000e+000
@@ -1796,41 +1824,6 @@ solid LMUU6mm_Support_PerpendicularJunction_Shaft6mm
          vertex 1.529366e+001 5.801519e+000 0.000000e+000
          vertex 1.249181e+001 4.761955e+000 0.000000e+000
          vertex 1.240736e+001 4.993969e+000 0.000000e+000
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
-      outer loop
-         vertex 1.270533e+001 1.113592e+001 0.000000e+000
-         vertex 1.273610e+001 1.122044e+001 0.000000e+000
-         vertex 1.565396e+001 1.037956e+001 0.000000e+000
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
-      outer loop
-         vertex 1.565396e+001 1.037956e+001 0.000000e+000
-         vertex 1.273610e+001 1.122044e+001 0.000000e+000
-         vertex 1.318986e+001 1.212795e+001 0.000000e+000
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
-      outer loop
-         vertex 1.565396e+001 1.037956e+001 0.000000e+000
-         vertex 1.318986e+001 1.212795e+001 0.000000e+000
-         vertex 1.614590e+001 1.118233e+001 0.000000e+000
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
-      outer loop
-         vertex 1.614590e+001 1.118233e+001 0.000000e+000
-         vertex 1.318986e+001 1.212795e+001 0.000000e+000
-         vertex 1.376139e+001 1.300376e+001 0.000000e+000
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
-      outer loop
-         vertex 1.614590e+001 1.118233e+001 0.000000e+000
-         vertex 1.376139e+001 1.300376e+001 0.000000e+000
-         vertex 1.675736e+001 1.189826e+001 0.000000e+000
       endloop
    endfacet
    facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
@@ -1975,44 +1968,16 @@ solid LMUU6mm_Support_PerpendicularJunction_Shaft6mm
    endfacet
    facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
       outer loop
-         vertex 1.270533e+001 1.113592e+001 0.000000e+000
-         vertex 1.565396e+001 1.037956e+001 0.000000e+000
-         vertex 1.262602e+001 1.091801e+001 0.000000e+000
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
-      outer loop
-         vertex 1.262602e+001 1.091801e+001 0.000000e+000
-         vertex 1.565396e+001 1.037956e+001 0.000000e+000
+         vertex 1.246305e+001 1.047027e+001 0.000000e+000
          vertex 1.529366e+001 9.509723e+000 0.000000e+000
+         vertex 1.237812e+001 1.023692e+001 0.000000e+000
       endloop
    endfacet
    facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
       outer loop
-         vertex 1.262602e+001 1.091801e+001 0.000000e+000
+         vertex 1.237812e+001 1.023692e+001 0.000000e+000
          vertex 1.529366e+001 9.509723e+000 0.000000e+000
-         vertex 1.254531e+001 1.069626e+001 0.000000e+000
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
-      outer loop
          vertex 1.232097e+001 9.995818e+000 0.000000e+000
-         vertex 1.237812e+001 1.023692e+001 0.000000e+000
-         vertex 1.529366e+001 9.509723e+000 0.000000e+000
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
-      outer loop
-         vertex 1.529366e+001 9.509723e+000 0.000000e+000
-         vertex 1.237812e+001 1.023692e+001 0.000000e+000
-         vertex 1.246305e+001 1.047027e+001 0.000000e+000
-      endloop
-   endfacet
-   facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
-      outer loop
-         vertex 1.529366e+001 9.509723e+000 0.000000e+000
-         vertex 1.246305e+001 1.047027e+001 0.000000e+000
-         vertex 1.254531e+001 1.069626e+001 0.000000e+000
       endloop
    endfacet
    facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
@@ -2132,6 +2097,41 @@ solid LMUU6mm_Support_PerpendicularJunction_Shaft6mm
          vertex 2.524264e+001 3.412981e+000 0.000000e+000
          vertex 2.585410e+001 4.128910e+000 0.000000e+000
          vertex 2.834735e+001 2.457892e+000 0.000000e+000
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
+      outer loop
+         vertex 1.246305e+001 1.047027e+001 0.000000e+000
+         vertex 1.254531e+001 1.069626e+001 0.000000e+000
+         vertex 1.529366e+001 9.509723e+000 0.000000e+000
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
+      outer loop
+         vertex 1.529366e+001 9.509723e+000 0.000000e+000
+         vertex 1.254531e+001 1.069626e+001 0.000000e+000
+         vertex 1.262602e+001 1.091801e+001 0.000000e+000
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
+      outer loop
+         vertex 1.529366e+001 9.509723e+000 0.000000e+000
+         vertex 1.262602e+001 1.091801e+001 0.000000e+000
+         vertex 1.565396e+001 1.037956e+001 0.000000e+000
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
+      outer loop
+         vertex 1.565396e+001 1.037956e+001 0.000000e+000
+         vertex 1.262602e+001 1.091801e+001 0.000000e+000
+         vertex 1.270533e+001 1.113592e+001 0.000000e+000
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
+      outer loop
+         vertex 1.565396e+001 1.037956e+001 0.000000e+000
+         vertex 1.270533e+001 1.113592e+001 0.000000e+000
+         vertex 1.273610e+001 1.122044e+001 0.000000e+000
       endloop
    endfacet
    facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
